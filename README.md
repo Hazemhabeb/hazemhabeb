@@ -30,7 +30,6 @@ Supports background tracking and group meetup coordination.
 
 </td>
     <td align="center">
-      <!-- Replace with actual GIF if available -->
       <img src="projects/themanwalk.png" width="240"/>
     </td>
   </tr>
@@ -47,7 +46,6 @@ Built as a freelance project using **Swift**, **Firebase**, and **UIKit**.
 
 </td>
     <td align="center">
-      <!-- Replace with actual GIF if available -->
       <img src="projects/pharmaApp.png" width="240"/>
     </td>
   </tr>
@@ -64,8 +62,7 @@ Empowers businesses to reduce costs and increase productivity.
 
 </td>
     <td align="center">
-      <!-- Replace with actual GIF if available -->
-      <img src="projects/fleetwise.gif" width="240"/>
+      <img src="projects/fleetwise.png" width="240"/>
     </td>
   </tr>
 
