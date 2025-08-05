@@ -1,52 +1,129 @@
 ## 📱 Projects
 
-### [Crunchr – Receipt Scanner](https://apps.apple.com/eg/app/crunchr-receipt-scanner/id1371850822)
-
+<table>
+  <tr>
+    <td width="60%">
+      
+### Crunchr – Receipt Scanner  
 🏆 **Award**: Best Mobile App – Australian Web Industry Awards 2023  
-📲 A powerful iOS app for scanning and organizing receipts using OCR.  
-🚀 Built using **SwiftUI**, **GraphQL (Apollo)**, and **Firebase**.  
-<img align="right" src="projects/crunchr.gif" width="320"/>
+A powerful iOS app for scanning and organizing receipts using OCR.  
+Built with **SwiftUI**, **GraphQL (Apollo)**, **Firebase**, **MVVM**, and **Sentry**.  
+Offline-first, blazing fast, and privacy-friendly.  
+<br>
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/eg/app/crunchr-receipt-scanner/id1371850822)
 
-🔍 Features:
-- Receipt OCR with real-time parsing  
-- Offline storage and background sync  
-- Seamless receipt export and categorization  
+</td>
+    <td align="center">
+      <img src="projects/crunchr.gif" width="240"/>
+    </td>
+  </tr>
 
+  <tr>
+    <td width="60%">
+      
+### The Man Walk  
+A community wellness app encouraging inclusive group walks for men.  
+Built with **SwiftUI**, **Firebase**, **MVVM**, and CoreLocation.  
+Supports background tracking and group meetup coordination.  
+<br>
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/au/app/the-man-walk/id6478720710)
 
-### [The Man Walk](https://apps.apple.com/au/app/the-man-walk/id6478720710)  
-  🏃‍♂️ Community wellness app encouraging group walks  
+</td>
+    <td align="center">
+      <!-- Replace with actual GIF if available -->
+      <img src="projects/the-man-walk.gif" width="240"/>
+    </td>
+  </tr>
 
-- [**LocalWalks**](https://apps.apple.com/au/app/the-man-walk/id6478720710)  
-  🚶‍♂️ Health trail app for South Western Sydney LHD  
+  <tr>
+    <td width="60%">
+      
+### PharmAcademy  
+One of Egypt’s top educational apps for pharmacy students and professionals.  
+Offers lectures, quizzes, and flashcards in a clean learning environment.  
+Built as a freelance project using **Swift**, **Firebase**, and **UIKit**.  
+<br>
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/eg/app/pharmacademy/id1584663316)
 
-- [**drugGPS**](https://apps.apple.com/eg/app/id6467857173)  
-  💊 Medication tracker with BLE & real-time data  
+</td>
+    <td align="center">
+      <!-- Replace with actual GIF if available -->
+      <img src="projects/pharmacademy.gif" width="240"/>
+    </td>
+  </tr>
 
-- [**Link – Earthlink ISP**](https://apps.apple.com/eg/app/id6467857173)  
-  🌐 Official mobile app for Iraq’s largest ISP  
+  <tr>
+    <td width="60%">
+      
+### FleetWise  
+Fleet management app for real-time vehicle tracking, route optimization, and maintenance.  
+Built using **Swift**, **Firebase**, and **MapKit**.  
+Empowers businesses to reduce costs and increase productivity.  
+<br>
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/eg/app/fleetwise/id1589800910)
 
-- [**PharmAcademy**](https://apps.apple.com/eg/app/pharmacademy/id1584663316)  
-  📚 Top pharmacy education app in Egypt  
+</td>
+    <td align="center">
+      <!-- Replace with actual GIF if available -->
+      <img src="projects/fleetwise.gif" width="240"/>
+    </td>
+  </tr>
 
-- [**FleetWise**](https://apps.apple.com/eg/app/fleetwise/id1589800910)  
-  🚚 Fleet management and vehicle tracking solution  
+  <tr>
+    <td width="60%">
+      
+### drugGPS  
+Medication tracker for patients and clinicians with BLE device syncing.  
+Features secure offline data handling, dose alerts, and real-time health metrics.  
+Built with **SwiftUI**, **BLE**, **Realm**, **MVVM**, and **Keychain**.  
+<br>
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/eg/app/id6467857173)
+
+</td>
+    <td align="center">
+      <!-- Replace with actual GIF if available -->
+      <img src="projects/druggps.gif" width="240"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="60%">
+      
+### Link – Earthlink Official App  
+ISP app for managing internet accounts and services in Iraq.  
+Migrated legacy codebase to Swift + SwiftUI, added CI and TDD practices.  
+Built with **Swift**, **SwiftUI**, **Socket.IO**, and **Firebase**.  
+<br>
+[![Download on the App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/eg/app/id6467857173)
+
+</td>
+    <td align="center">
+      <!-- Replace with actual GIF if available -->
+      <img src="projects/link.gif" width="240"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠 Technologies
 
-- **Languages**: Swift, Kotlin, Objective-C, Java  
-- **Frameworks**: SwiftUI, UIKit, Combine, AVFoundation  
-- **Architecture**: MVVM, VIPER, Clean Architecture  
-- **Tools**: Firebase, Realm, GraphQL (Apollo), BLE, Sentry  
-- **CI/CD**: Jenkins, Fastlane, SwiftLint, XCUITest  
+| Category         | Tools & Frameworks                                                                 |
+|------------------|-------------------------------------------------------------------------------------|
+| **Languages**     | Swift, Objective-C, Kotlin, Java                                                   |
+| **UI**            | SwiftUI, UIKit, Combine                                                            |
+| **Architecture**  | MVVM, VIPER, MVC, Clean Swift                                                      |
+| **Backend / Data**| GraphQL (Apollo), REST APIs, Firebase, Realm, CoreData                            |
+| **Tools**         | Xcode, Fastlane, Jenkins, Git, TestFlight, Firebase Crashlytics                   |
+| **Testing**       | XCTest, XCUITest, TDD                                                              |
+| **Other**         | BLE, AVFoundation, Keychain, CoreLocation, Push Notifications                     |
 
 ---
 
 ## 🌍 Languages
 
-- Arabic: Native  
-- English: Very Good  
+- 🇪🇬 Arabic: Native  
+- 🇺🇸 English: Very Good  
 
 ---
 
