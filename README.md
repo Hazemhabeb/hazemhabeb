@@ -48,7 +48,7 @@ Built as a freelance project using **Swift**, **Firebase**, and **UIKit**.
 </td>
     <td align="center">
       <!-- Replace with actual GIF if available -->
-      <img src="projects/pharmacademy.gif" width="240"/>
+      <img src="projects/pharmaApp.png" width="240"/>
     </td>
   </tr>
 
