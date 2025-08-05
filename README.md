@@ -31,7 +31,7 @@ Supports background tracking and group meetup coordination.
 </td>
     <td align="center">
       <!-- Replace with actual GIF if available -->
-      <img src="projects/the-man-walk.gif" width="240"/>
+      <img src="projects/themanwalk.png" width="240"/>
     </td>
   </tr>
 
