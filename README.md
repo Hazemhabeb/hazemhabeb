@@ -1,72 +1,49 @@
-<h1 align="center">Hi 👋, I'm Hazem Habeb</h1>
-<h3 align="center">🇪🇬 Senior iOS Developer • 7+ Years Experience • Cairo, Egypt</h3>
+## 📱 Projects
+
+- [**Crunchr – Receipt Scanner**](https://apps.apple.com/eg/app/crunchr-receipt-scanner/id1371850822)  
+  🏆 Best Mobile App – Australian Web Industry Awards 2023  
+
+- [**The Man Walk**](https://apps.apple.com/au/app/the-man-walk/id6478720710)  
+  🏃‍♂️ Community wellness app encouraging group walks  
+
+- [**LocalWalks**](https://apps.apple.com/au/app/the-man-walk/id6478720710)  
+  🚶‍♂️ Health trail app for South Western Sydney LHD  
+
+- [**drugGPS**](https://apps.apple.com/eg/app/id6467857173)  
+  💊 Medication tracker with BLE & real-time data  
+
+- [**Link – Earthlink ISP**](https://apps.apple.com/eg/app/id6467857173)  
+  🌐 Official mobile app for Iraq’s largest ISP  
+
+- [**PharmAcademy**](https://apps.apple.com/eg/app/pharmacademy/id1584663316)  
+  📚 Top pharmacy education app in Egypt  
+
+- [**FleetWise**](https://apps.apple.com/eg/app/fleetwise/id1589800910)  
+  🚚 Fleet management and vehicle tracking solution  
 
 ---
 
-### 🧑‍💻 About Me
+## 🛠 Technologies
 
-I’m a passionate iOS Developer with over **7 years of experience** building scalable, high-performance mobile applications across healthcare, education, and telecom industries. I specialize in **Swift**, **SwiftUI**, and modern iOS architectures like **MVVM** and **VIPER**. I’ve contributed to production apps used by thousands of users, managed CI/CD pipelines, and implemented BLE medical integrations.
-
-- 🔭 Currently working remotely as a Senior iOS Developer at **Creatio, Australia**
-- 🛠 Built award-winning apps like **Crunchr** (Best Mobile App, AWIA 2023)
-- 💼 Freelance work includes **PharmAcademy** (Top learning app in Egypt)
-- 🌍 Remote experience across 🇪🇬 🇸🇦 🇦🇺 🇩🇰 🇦🇪
-
----
-
-### 🚀 Notable Apps
-
-- 📦 [Crunchr – Receipt Scanner](https://apps.apple.com/eg/app/crunchr-receipt-scanner/id1371850822)  
-- 🚶‍♂️ [The Man Walk – Community Wellness](https://apps.apple.com/au/app/the-man-walk/id6478720710)  
-- 🧭 [LocalWalks – Health Trails NSW](https://apps.apple.com/au/app/the-man-walk/id6478720710)  
-- 💊 [drugGPS – Clinical Medication Tracker](https://apps.apple.com/eg/app/id6467857173)  
-- 🧠 [PharmAcademy – Pharma Education](https://apps.apple.com/eg/app/pharmacademy/id1584663316)  
-- 🚚 [FleetWise – Fleet Management](https://apps.apple.com/eg/app/fleetwise/id1589800910)  
-- 🌐 [Link – Earthlink Official App (Iraq ISP)](https://apps.apple.com/eg/app/id6467857173)  
+- **Languages**: Swift, Kotlin, Objective-C, Java  
+- **Frameworks**: SwiftUI, UIKit, Combine, AVFoundation  
+- **Architecture**: MVVM, VIPER, Clean Architecture  
+- **Tools**: Firebase, Realm, GraphQL (Apollo), BLE, Sentry  
+- **CI/CD**: Jenkins, Fastlane, SwiftLint, XCUITest  
 
 ---
 
-### 🔧 Technologies & Tools
+## 🌍 Languages
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Swift-orange?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UIKit-black?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Realm-purple?style=for-the-badge&logo=realm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-0052CC?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XCTest-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Fastlane-00C7B7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AVFoundation-666666?style=for-the-badge"/>
-</p>
+- Arabic: Native  
+- English: Very Good  
 
 ---
 
-### 📊 GitHub Stats
+## 📫 Contact
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hazemhabeb&show_icons=true&theme=radical" alt="Hazem's GitHub Stats" />
-</p>
+- 📧 Email: [hazemhabeb94@gmail.com](mailto:hazemhabeb94@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/hazem-habeb-074880b7](https://linkedin.com/in/hazem-habeb-074880b7)  
+- 🌐 GitHub: [github.com/hazemhabeb](https://github.com/hazemhabeb)  
+- 📝 Medium: [medium.com/@hazemhabeb](https://medium.com/@hazemhabeb)
 
----
-
-### 📫 Contact Me
-
-- 📧 Email: **hazemhabeb94@gmail.com**
-- 📱 Phone: [+20 0155 323 4191](tel:+201553234191)
-- 💼 [LinkedIn](https://www.linkedin.com/in/hazem-habeb-074880b7/)
-- 📝 [Medium Articles](https://medium.com/@hazemhabeb)
-- 🌍 [GitHub Portfolio](https://github.com/hazemhabeb)
-
----
-
-### 💡 Fun Facts
-
-- Built apps in both **Swift & Kotlin** across platforms
-- Obsessed with **clean architecture**, offline-first UX, and blazing performance
-- Advocate for **TDD**, **code review**, and **developer happiness**
-
----
-
-🛠 If you'd like a version of this README with **project screenshots**, **GIFs**, or **stats cards**, I can prepare that too. Just let me know!
