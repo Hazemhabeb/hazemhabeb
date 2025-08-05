@@ -14,7 +14,7 @@ Offline-first, blazing fast, and privacy-friendly.
 
 </td>
     <td align="center">
-      <img src="projects/crunchr.gif" width="240"/>
+      <img src="projects/crunchrApp.gif" width="240"/>
     </td>
   </tr>
 
