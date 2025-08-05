@@ -1,7 +1,14 @@
 ## 📱 Projects
 
-- [**Crunchr – Receipt Scanner**](https://apps.apple.com/eg/app/crunchr-receipt-scanner/id1371850822)  
-  🏆 Best Mobile App – Australian Web Industry Awards 2023  
+### [Crunchr – Receipt Scanner](https://apps.apple.com/eg/app/crunchr-receipt-scanner/id1371850822)
+
+🏆 **Award**: Best Mobile App – Australian Web Industry Awards 2023  
+📲 A powerful iOS app for scanning and organizing receipts using OCR.  
+🚀 Built using **SwiftUI**, **GraphQL (Apollo)**, and **Firebase**.  
+🔍 Features:
+- Receipt OCR with real-time parsing
+- Offline storage and background sync
+- Seamless receipt export and categorization
 
 - [**The Man Walk**](https://apps.apple.com/au/app/the-man-walk/id6478720710)  
   🏃‍♂️ Community wellness app encouraging group walks  
