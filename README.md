@@ -96,7 +96,7 @@ Built with **Swift**, **SwiftUI**, **Socket.IO**, and **Firebase**.
 </td>
     <td align="center">
       <!-- Replace with actual GIF if available -->
-      <img src="projects/link.gif" width="240"/>
+      <img src="projects/link.png" width="240"/>
     </td>
   </tr>
 </table>
