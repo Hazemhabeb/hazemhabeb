@@ -129,5 +129,9 @@ Built with **Swift**, **SwiftUI**, **Socket.IO**, and **Firebase**.
 - 📧 Email: [hazemhabeb94@gmail.com](mailto:hazemhabeb94@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/hazem-habeb-074880b7](https://linkedin.com/in/hazem-habeb-074880b7)  
 - 🌐 GitHub: [github.com/hazemhabeb](https://github.com/hazemhabeb)  
-- 📝 Medium: [medium.com/@hazemhabeb](https://medium.com/@hazemhabeb)
 
+📝‍ Medium Articles
+------------
+- [GraphQL vs REST: A Real Talk for iOS Developers](https://medium.com/@hazemhabeb94/graphql-vs-rest-a-real-talk-for-ios-developers-b3be5e364014)
+- [How to Use MVVM Like a Pro in iOS ( part 1 )]( https://medium.com/p/2eb1ac60131d)
+- [MVVM + Coordinator: The Secret to Clean Navigation](https://medium.com/p/49b28307611f)
