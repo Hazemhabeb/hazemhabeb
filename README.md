@@ -117,18 +117,6 @@ Built with **Swift**, **SwiftUI**, **Socket.IO**, and **Firebase**.
 
 ---
 
-## 🌍 Languages
-
-- 🇪🇬 Arabic: Native  
-- 🇺🇸 English: Very Good  
-
----
-
-## 📫 Contact
-
-- 📧 Email: [hazemhabeb94@gmail.com](mailto:hazemhabeb94@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/hazem-habeb-074880b7](https://linkedin.com/in/hazem-habeb-074880b7)  
-- 🌐 GitHub: [github.com/hazemhabeb](https://github.com/hazemhabeb)  
 
 📝‍ Medium Articles
 ------------
